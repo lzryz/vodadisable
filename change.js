@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Vodafone
-// @version      1.1
+// @version      1.0
 // @description  :)
 // @author       lazar
 // @match        http://192.168.0.1/*
